@@ -42,6 +42,11 @@
 *.idb
 *.pdb
 
+config.h
+st
+*.rej
+*.orig
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
